@@ -19,4 +19,5 @@ The Random Image Feed project is a lightweight web application designed to provi
 ## Technologies Used
 - HTML: The foundation for structuring the content and layout of the project.
 - CSS: Styling to enhance the visual appeal and responsiveness of the image feed.
-- JavaScript: The logic behind fetching and displaying random images, adding an interactive element to the project.
+- JavaScript: The logic behind fetching and displaying random images, adding an interactive element to the project.![Screenshot 2024-02-05 011255](https://github.com/KritikaAnand/Random-Feed-generator/assets/96490053/1b43c923-480c-40b0-b312-42055abfcb4c)
+
