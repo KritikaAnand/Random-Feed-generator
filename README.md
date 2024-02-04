@@ -8,4 +8,4 @@ A simple project that displays a random image each time you refresh the page.
 - Minimalistic design with HTML and CSS.
 - JavaScript logic for fetching and displaying random images.
 
-- 
+
